@@ -1,0 +1,11 @@
+In this project we have data related to the appearance and technical characteristics of the car, based on which we
+
+ want to check the effect of three variable, width and height and length of the car on its weight. The name of our 
+
+data is " automobile.csv ". This analysis is based on multiple linear regression.
+
+The program code is implemented in Python and its name is
+
+ ## "Multiple Linear Regression.py".
+
+By running the program, we find that there is a strong linear relationship between the width and height and length of the car and its weight because the value of r2 is equal to 0.78.
